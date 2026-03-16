@@ -1,5 +1,4 @@
-# My-portfolio-
-It contains html,css and JavaScript 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
